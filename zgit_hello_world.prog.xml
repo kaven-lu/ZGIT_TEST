@@ -58,6 +58,13 @@
    </CUA>
    <TPOOL>
     <item>
+     <ID>I</ID>
+     <KEY>001</KEY>
+     <ENTRY>test Text Element</ENTRY>
+     <LENGTH>27</LENGTH>
+     <SPLIT/>
+    </item>
+    <item>
      <ID>R</ID>
      <KEY/>
      <ENTRY>Git test program</ENTRY>
